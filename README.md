@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **any project that sounds interesting :)**
 
-- 👨‍💻 All of my projects are available at [www.sarunas.me](www.sarunas.me)
+- 👨‍💻 All of my projects are available at www.sarunas.me
 
 - 💬 Ask me about **react, life, books, anything really**
 
